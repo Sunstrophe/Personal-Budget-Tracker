@@ -9,7 +9,7 @@ def read_userfiles(username_files):
     return new_username_files
 
 def log_user(username, password):
-    new_username_files = 
+    new_username_files = "kfeok"
     username_files = {
         "username" : username,
         "password" : password
